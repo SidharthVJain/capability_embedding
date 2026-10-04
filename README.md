@@ -1,4 +1,4 @@
-# Assignment 2 — Vector Embedding for Capability Composition
+# Assignment 2: Vector Embedding for Capability Composition
 
 **Course:** PCCST503 Machine Learning  
 **Student:** Sidharth V. Jain, B.Tech., Department of Computer Science & Engineering, Semester 5, Roll No. 62
@@ -9,12 +9,12 @@ This project is a Python implementation of a structured vector representation fo
 
 ### Files
 
-- `dataset.json` — formal application and capability definitions.
-- `capability_embedding.py` — implementation.
-- `run_experiments.py` — evaluation and plot generation.
-- `test_capability_embedding.py` — automated tests.
-- `artifacts/` — CSV/JSON results and figures.
-- `requirements.txt` — dependencies.
+- `dataset.json`: formal application and capability definitions.
+- `capability_embedding.py`: implementation.
+- `run_experiments.py`: evaluation and plot generation.
+- `test_capability_embedding.py`: automated tests.
+- `artifacts/`: CSV/JSON results and figures.
+- `requirements.txt`: dependencies.
 
 ## Main interfaces
 
