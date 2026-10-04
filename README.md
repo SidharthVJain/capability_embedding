@@ -13,7 +13,6 @@ This project is a Python implementation of a structured vector representation fo
 - `capability_embedding.py` — implementation.
 - `run_experiments.py` — evaluation and plot generation.
 - `test_capability_embedding.py` — automated tests.
-- `technical_report.md` — polished report draft/evidence narrative.
 - `artifacts/` — CSV/JSON results and figures.
 - `requirements.txt` — dependencies.
 
@@ -55,7 +54,7 @@ The experiments produce quantitative tables and PNG figures under `artifacts/`.
 
 ---
 
-# Technical Report — Vector Embedding for Capability Composition
+# Technical Report (See technical_report.pdf for the final report)
 
 
 ## Abstract
@@ -249,4 +248,4 @@ The implementation provides a structured capability embedding that preserves sem
 
 The central result is that capability composition should not be reduced to ordinary cosine similarity. Instead, vector representation provides a continuous description of capability structure, while formal precondition/effect and input/output reasoning determines whether composition is executable.
 
-The resulting system supports state and goal encoding, capability encoding, similarity, compatibility, composition and experimental evaluation, providing a complete prototype for the assignment.
+The resulting system supports state and goal encoding, capability encoding, similarity, compatibility, composition and experimental evaluation.
